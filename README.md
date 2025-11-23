@@ -52,7 +52,7 @@ o	unittest (for testing validation logic)
 •	Ensure Python is installed on your system.
 ## Installation
 ### Clone the Repository:
-git clone https://github.com/[24anishka10]/Bank-Management-System.git
+git clone https://github.com/24anishka10/Project.git
 cd Bank-Management-System
 ## Running the Application
 To launch the system, run the main.py file from the terminal:
